@@ -2,6 +2,12 @@
 
 Welcome to the **Movie Recommender System** repository! 🌟 This project leverages Streamlit to provide personalized movie recommendations based on user input. 
 
+## 🚀 Run the Notebook
+
+You can run this project directly in Google Colab by clicking the button below:
+
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ImD4DkLAyp8rUdLwmFYxcpFesuPbW8rZ?usp=sharing)
+
 ---
 
 ## ✨ Features
